@@ -2,6 +2,8 @@
 
 <font size = '+2'>Q. Calculate the multiplication and sum of two numbers.</font>
 
+***Sol:-***
+
 ```python
 int1 = float(input("Enter First number : "))
 int2 = float(input("Enter Secomd number : "))
