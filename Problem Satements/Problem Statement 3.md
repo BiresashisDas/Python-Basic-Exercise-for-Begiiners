@@ -6,3 +6,11 @@ For example, <code>str = "pynative"</code> so you should display ‘p’, ‘n�
 
 ***Sol:-***
 
+```python
+s = input("Enter your string : ")
+print(f"Original String is {s}")
+print("Printing only even index chars")
+s = s[::2]
+for i in s:
+    print(i)
+```
