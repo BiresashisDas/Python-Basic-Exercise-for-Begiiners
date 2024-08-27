@@ -5,7 +5,7 @@ Q. Write a program to iterate the first 10 numbers, and in each iteration, print
 ***Sol:-***
 
 ```python
-Printing current and previous number sum in a range(10)
+print("Printing current and previous number sum in a range(10)")
 prev_num = 0
 for i in range(10):
     res = prev_num + i
