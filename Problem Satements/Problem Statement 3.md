@@ -4,11 +4,19 @@ Q. Write a program to accept a string from the user and display characters that 
 
 For example, <code>str = "pynative"</code> so you should display ‘p’, ‘n’, ‘t’, ‘v’.
 
+**Expected Output:**
+
+Orginal String is  pynative
+Printing only even index chars
+p
+n
+t
+v
+
 ***Sol:-***
 
 ```python
-s = input("Enter your string : ")
-print(f"Original String is {s}")
+s = input("Original String is ")
 print("Printing only even index chars")
 s = s[::2]
 for i in s:
