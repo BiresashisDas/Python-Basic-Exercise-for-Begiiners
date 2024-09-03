@@ -9,3 +9,12 @@ num = 5678
 n = str(num)
 print(" ".join(n[::-1]))
 ```
+
+**Another Way**
+```python
+n = int(input("Enter your number : "))
+n = str(n)
+n = n[::-1]
+for i in n:
+    print(i, end = " ")
+```
