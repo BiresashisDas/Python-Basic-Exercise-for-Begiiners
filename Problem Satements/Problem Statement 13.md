@@ -13,6 +13,7 @@ for s in st.split():
 **OUTPUT**
 
 ```
+Sam
 start
 s
 sentence
