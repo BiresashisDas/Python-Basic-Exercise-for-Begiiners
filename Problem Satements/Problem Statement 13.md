@@ -3,10 +3,10 @@
 ***Sol:-***
 
 ```python
-st = 'Print only the words that start with s in this sentence'
+st = 'Sam Print only the words that start with s in this sentence'
 
 for s in st.split():
-    if s.startswith('s'):
+    if s.upper().startswith('s'):
         print(s)
 ```
 
