@@ -9,3 +9,11 @@ for s in st.split():
     if s.startswith('s'):
         print(s)
 ```
+
+**OUTPUT**
+
+```
+start
+s
+sentence
+```
