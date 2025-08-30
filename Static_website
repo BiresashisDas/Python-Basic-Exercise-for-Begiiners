@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>My Static Website</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 40px; background-color: #f4f4f9; color: #333;">
+
+ <center>
+ <h1 style="color: #2c3e50;">Welcome to My Website</h1>
+ <hr width="60%">
+ <h2 style="color: #16a085;">Biresashis Das</h2>
+ <p><b>ID:</b> 2022WA86299</p>
+ <hr width="60%">
+ </center>
+
+ <h3>About Me</h3>
+ <p>
+ Hello! My name is <b>Biresashis Das</b>. This is a simple static website built using only HTML. 
+ The purpose of this site is to host this Static Website on a Amazon S3 bucket.
+ </p>
+
+ <h3>Hobbies</h3>
+ <ul>
+ <li>Programming</li>
+ <li>Reading</li>
+ <li>Exploring new technologies</li>
+ </ul>
+
+ <h3>Contact</h3>
+ <p>
+ You can reach me at: <a href="mailto:2022wa86299@wilp.bits-pilani.ac.in">2022wa86299@wilp.bits-pilani.ac.in</a>
+ </p>
+
+ <footer style="margin-top: 40px; text-align: center; font-size: 14px; color: #777;">
+ © 2025 Biresashis Das | All Rights Reserved
+ </footer>
+
+</body>
+</html>
